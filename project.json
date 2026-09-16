@@ -1,0 +1,41 @@
+{
+  "id": 24,
+  "category": "game-offline",
+  "slug": "ck3-dynasty-lab",
+  "target": "Crusader Kings III",
+  "appid": "1158310",
+  "summaryRu": "Планировщик одиночных экспериментов с ресурсами династии и правилами кампании.",
+  "features": [
+    "Dynasty resource sheets",
+    "Succession scenario comparisons",
+    "Game rule snapshots"
+  ],
+  "title": "DynastyLoom — Crusader Kings III — Inheritance",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "DynastyLoom",
+  "repositoryName": "dynastyloom-ck3-dynasty-lab-inheritance",
+  "githubTopics": [
+    "crusader-kings-iii",
+    "dynasty-planning",
+    "succession-planning",
+    "game-rules",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "inheritance"
+}
